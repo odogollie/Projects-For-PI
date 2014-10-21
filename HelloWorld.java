@@ -7,6 +7,7 @@
  *
  * This file is part of the Pi4J project. More information about
  * this project can be found here:  http://www.pi4j.com/
+ * Need http://wiringpi.com/
  * **********************************************************************
  * %%
  * Copyright (C) 2012 - 2014 Pi4J
