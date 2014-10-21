@@ -36,6 +36,7 @@ import com.pi4j.io.gpio.RaspiPin;
  * control of a GPIO pin on the Raspberry Pi.
  *
  * @author Robert Savage
+ * Working author Oliver Shanklin
  */
 public class ControlGpioExample {
 
