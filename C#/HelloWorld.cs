@@ -13,7 +13,7 @@ namespace Test
                 led.Write(PinState.High);
                 System.Threading.Thread.Sleep(500);
                 led.Write(PinState.Low);
-                System.Threading.Thread.Sleep(500);
+                System.Threading.Thread.Sleep(200);
             }
         }
     }

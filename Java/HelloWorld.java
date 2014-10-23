@@ -52,7 +52,7 @@ public class ControlGpioExample {
         final GpioPinDigitalOutput pin = gpio.provisionDigitalOutputPin(RaspiPin.GPIO_01, "MyLED", PinState.HIGH);
         System.out.println("--> GPIO state should be: ON");
 
-        Thread.sleep(5000);
+        Thread.sleep(1000);
 
         // turn off gpio pin #01
         pin.low();
